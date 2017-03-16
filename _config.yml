@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "moebroshow"
   foursquare       :
   github           :
   google_plus      :
@@ -96,15 +96,15 @@ author:
   lastfm           :
   linkedin         :
   pinterest        :
-  soundcloud       :
+  soundcloud       : "moebroshow"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "moebroshow"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :  "https://youtube.com/c/moebroshow"
 
 
 # Reading Files
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
